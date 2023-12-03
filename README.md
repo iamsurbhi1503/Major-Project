@@ -6,11 +6,7 @@ This is a sample business landing page designed for a consultancy company specia
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Features
 
 - Responsive design for various devices.
